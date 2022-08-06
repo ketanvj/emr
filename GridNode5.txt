@@ -13,3 +13,4 @@ java -Dwebdriver.gecko.driver="\selenium share\Selenium installables\selenium 3.
 -browser "browserName=android,maxInstances=2" ^
 -browser "browserName=safari,maxInstances=2"
 pause
+abc

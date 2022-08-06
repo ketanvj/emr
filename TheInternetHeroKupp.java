@@ -1,7 +1,3 @@
-/*  
- *  This test sets up DesiredCapabilities and then invokes
- *  RemoteWebDriver to send the request to hub *  
- */
 package grid;
 
 import org.testng.annotations.Optional;
